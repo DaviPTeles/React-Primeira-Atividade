@@ -10,8 +10,8 @@ function App() {
 
   return (
     <main>
-      <Saudacao nome={'Davi'} idade={21}/>
-      <Saudacao nome={'Abraão'} idade={15}/>
+      <Saudacao nome={'Davi'}/>
+      <Saudacao idade={15}/>
     </main>
   )
 }
